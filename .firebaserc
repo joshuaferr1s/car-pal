@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "car-pal-dev",
+    "dev": "car-pal-dev",
+    "prod": "car-pal-prod"
+  }
+}
