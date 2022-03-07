@@ -7,7 +7,7 @@
         <span class="text-teal-400">4</span>
       </h1>
       <p class=" text-2xl text-gray-700 mb-6">Page not found</p>
-      <router-link to="/" class="text-amber-500 hover:text-amber-700">Return to the app</router-link>
+      <router-link to="/dashboard" class="text-amber-500 hover:text-amber-700">Return to the app</router-link>
     </section>
   </main>
 </template>
